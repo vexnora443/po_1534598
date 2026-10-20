@@ -2,7 +2,7 @@
   "schema": 1,
   "service": "poweroff",
   "api_base_url": "https://push-crawford-tanks-entity.trycloudflare.com",
-  "config_version": 1,
-  "expires_at": "2026-11-19T21:31:20Z",
-  "signature_ed25519_base64": "UjtAHLF5iND6ezVE6R5JNWrSrPLTv1EwgEe3TEbKFxstkrMmEyHo29RzmAZPzFJdbHNnkdrd5MohIKmNjtKTAA=="
+  "config_version": 2,
+  "expires_at": "2026-11-19T21:52:28Z",
+  "signature_ed25519_base64": "+bBR6SNSrvz3VTqr0RIl4NC5QXO5+wKoJ0Vj/Psf95PLlTLSKStQ9DkPEaY3RYkHe2Zb5y1z41yWuMO5js+HAQ=="
 }
