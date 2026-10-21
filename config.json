@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "service": "poweroff",
-  "api_base_url": "https://marco-sector-ranks-weather.trycloudflare.com",
-  "config_version": 4,
-  "expires_at": "2026-11-19T21:58:22Z",
-  "signature_ed25519_base64": "cT242o2uiyx5+cIzTjO485zitIZ+gHEtip9FC8Swd7VaZRLqRR7KVz1AGsMyUkVWFXapmGDxl+RxYdQseSHNCA=="
+  "api_base_url": "https://novo-endereco.trycloudflare.com",
+  "config_version": 5,
+  "expires_at": "2026-11-20T17:41:47Z",
+  "signature_ed25519_base64": "L8PfE9kzGFcwYmzEzEX3FSmFz0PPxxymg++GTMXi5OC5tut8T/bep+mvbpcrmPkJ8GbiA1r7UV2ycdIJPgqqBg=="
 }
